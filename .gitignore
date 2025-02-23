@@ -35,9 +35,8 @@ env/
 .ipynb_checkpoints
 *.ipynb
 
-# Data
-data/*.csv
-*.csv
+# CSV files (except in data and results folders)
+/*.csv
 
 # Logs
 *.log
