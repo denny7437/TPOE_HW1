@@ -39,6 +39,10 @@ env/
 data/*.csv
 *.csv
 
+# Results
+results/
+*.png
+
 # Logs
 *.log
 
